@@ -1,5 +1,3 @@
-# VJ-PRJ-TNIOM
-
 ### Note: 
 ##### Please make a new branch in case of making changes!! Avoid commits on Main branch!
 
